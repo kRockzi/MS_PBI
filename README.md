@@ -1,4 +1,4 @@
-Dashboard: Population demographic Analysis.
+Dashboard: Population demographic
 
 Tools used:
 1. Power BI Desktop
