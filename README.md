@@ -1,3 +1,3 @@
 Population demographic Analysis.
 
-Tool : Power BI desktop
+Tool Used: Power BI desktop
